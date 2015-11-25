@@ -1,4 +1,5 @@
-# *panicLock*
+PanicLock8
+===================
 
 1. Launch Settings and navigate to PanicLock8.
 2. Configure your secret gesture.
