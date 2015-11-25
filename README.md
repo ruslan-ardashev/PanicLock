@@ -1,15 +1,31 @@
-<img src="http://www.google.com/images/branding/googlelogo/1x/googlelogo_white_background_color_272x92dp.png" alt="Image not found." width="48"/> PanicLock
+<img src="https://raw.githubusercontent.com/ruslan120101/PanicLock/PanicLock8/paniclockproios8prefs/Resources/panicLock%403x.png" alt="Image not found." width="58"/> PanicLock
 ===================
 
 PanicLock lets you use a secret gesture to selectively lock applications you care about in case of a compromised passcode.
 
-* Demo
-* Setup
-* Usage
 
+#### Demo
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=JYyvcY6P_I8
+" target="_blank"><img src="http://img.youtube.com/vi/JYyvcY6P_I8/0.jpg" 
+alt="Failed to load demo video." width="240" height="180" border="10" /></a>
+
+#### Setup Video (Instructions Below)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=0jrsolwbXxM
+" target="_blank"><img src="http://img.youtube.com/vi/0jrsolwbXxM/0.jpg" 
+alt="Failed to load setup instructions." width="240" height="180" border="10" /></a>
+
+More videos available at [iDevChannel](https://www.youtube.com/channel/UC2GzUE7JdXrD_HlVMg9_c6A).
 
 #### Usage
-1. 
+
+##### Setup
+1. In "Settings" navigate to "PanicLock"
+2. **Activation Methods**: Configure your secret gesture 
+3. **Protected Applications**: Configure the applications that "fail to launch" when protected
+4. **Vibrate On Activation**
+  * Toggle ON = Long Vibration
+  * Toggle OFF = Short Vibration
+5. **Vibrate When Blocking App Launch**: Vibrates when attempting to launch a blocked app
 
 
 #### Installation
@@ -25,23 +41,13 @@ Install using [theos](http://iphonedevwiki.net/index.php/Theos)
 * [Open Source Projects](http://iphonedevwiki.net/index.php/Open_Source_Projects)
 
 
-
-
 #### Versions
-**PanicLock9** for iOS 9, $0.99 in Cydia
+**PanicLock9** for iOS 9 - **$0.99 in Cydia** on the BigBoss Repo
 
-**PanicLock8** for iOS 8, Free in Cydia, [Open Sourced](https://github.com/ruslan120101/PanicLock/tree/PanicLock8)
+**PanicLock8** for iOS 8
+* Free in Cydia
+* [Open Sourced](https://github.com/ruslan120101/PanicLock/tree/PanicLock8)
 
-**PanicLock7** for iOS 7, Free in Cydia, [Open Sourced](https://github.com/ruslan120101/PanicLock/tree/PanicLock7)
-
-
-
-
-
-#### PanicLock9
-Available on Cydia for $0.99 (BigBoss repo).
-
-#### PanicLock8
-
-
-
+**PanicLock7** for iOS 7
+* Free in Cydia
+* [Open Sourced](https://github.com/ruslan120101/PanicLock/tree/PanicLock7)
