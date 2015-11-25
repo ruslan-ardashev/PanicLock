@@ -1,0 +1,4 @@
+# ignore build directories
+_/
+obj/
+theos/
