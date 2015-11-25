@@ -1,13 +1,12 @@
 <p align="center">
   <img src="https://github.com/ruslan120101/PanicLock/blob/master/images/PanicLock9.png" alt="Image not found." style="float: right;" width="256"/>
 </p>
-===================
-
-**Selectively lock applications you care about in case of a compromised passcode.**
 
 | Demo     | Setup Instructions           |
 | ------------- |:-------------:|
 | <a href="http://www.youtube.com/watch?feature=player_embedded&v=JYyvcY6P_I8" target="_blank"><img src="http://img.youtube.com/vi/JYyvcY6P_I8/0.jpg" alt="Failed to load demo video." width="240" height="180" border="10" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=0jrsolwbXxM" target="_blank"><img src="http://img.youtube.com/vi/0jrsolwbXxM/0.jpg" alt="Failed to load setup instructions." width="240" height="180" border="10" /></a> |
+
+**Selectively lock applications you care about in case of a compromised passcode.**
 
 More videos available at [iDevChannel](https://www.youtube.com/channel/UC2GzUE7JdXrD_HlVMg9_c6A).
 
