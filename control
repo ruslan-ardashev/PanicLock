@@ -1,0 +1,9 @@
+Package: com.ruslan.paniclock8
+Name: PanicLock8
+Depends: firmware (>= 8.0), mobilesubstrate, libactivator, applist
+Version: 1.5
+Architecture: iphoneos-arm
+Description: Silently lock your iOS Device via any secret gesture. Engineered for iOS 8.
+Maintainer: Ruslan Ardashev
+Author: Ruslan Ardashev
+Section: Tweaks

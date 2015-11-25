@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = panicLockProiOS8Prefs;
+	cell = PSLinkCell;
+	detail = panicLockProiOS8PrefsListController;
+	icon = PanicLock8.png;
+	isController = 1;
+	label = "PanicLock8";
+    };
+}
