@@ -1,7 +1,7 @@
-<img src="https://raw.githubusercontent.com/ruslan120101/PanicLock/PanicLock8/paniclockproios8prefs/Resources/panicLock%403x.png" alt="Image not found." width="58"/> PanicLock
+<img src="https://github.com/ruslan120101/PanicLock/blob/master/images/PanicLock9.png" alt="Image not found." style="float: right;" width="256"/>
 ===================
 
-PanicLock lets you use a secret gesture to selectively lock applications you care about in case of a compromised passcode.
+**Use a secret gesture to selectively lock applications you care about in case of a compromised passcode.**
 
 
 #### Demo
