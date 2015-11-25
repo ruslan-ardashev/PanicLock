@@ -1,0 +1,8 @@
+{ 
+
+	Filter = { 
+		CoreFoundationVersion = (847.20, 1140.10);
+		Bundles = ("com.apple.springboard");
+	}; 
+
+}
