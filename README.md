@@ -1,24 +1,18 @@
-<img src="https://github.com/ruslan120101/PanicLock/blob/master/images/PanicLock9.png" alt="Image not found." style="float: right;" width="256"/>
+<p align="center">
+  <img src="https://github.com/ruslan120101/PanicLock/blob/master/images/PanicLock9.png" alt="Image not found." style="float: right;" width="256"/>
+</p>
 ===================
 
-**Use a secret gesture to selectively lock applications you care about in case of a compromised passcode.**
+**Selectively lock applications you care about in case of a compromised passcode.**
 
-
-#### Demo
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=JYyvcY6P_I8
-" target="_blank"><img src="http://img.youtube.com/vi/JYyvcY6P_I8/0.jpg" 
-alt="Failed to load demo video." width="240" height="180" border="10" /></a>
-
-#### Setup Video (Instructions Below)
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=0jrsolwbXxM
-" target="_blank"><img src="http://img.youtube.com/vi/0jrsolwbXxM/0.jpg" 
-alt="Failed to load setup instructions." width="240" height="180" border="10" /></a>
+| Demo     | Setup Instructions           |
+| ------------- |:-------------:|
+| <a href="http://www.youtube.com/watch?feature=player_embedded&v=JYyvcY6P_I8" target="_blank"><img src="http://img.youtube.com/vi/JYyvcY6P_I8/0.jpg" alt="Failed to load demo video." width="240" height="180" border="10" /></a> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=0jrsolwbXxM" target="_blank"><img src="http://img.youtube.com/vi/0jrsolwbXxM/0.jpg" alt="Failed to load setup instructions." width="240" height="180" border="10" /></a> |
 
 More videos available at [iDevChannel](https://www.youtube.com/channel/UC2GzUE7JdXrD_HlVMg9_c6A).
 
-#### Usage
 
-##### Setup
+### Setup
 1. In "Settings" navigate to "PanicLock"
 2. **Activation Methods**: Configure your secret gesture 
 3. **Protected Applications**: Configure the applications that "fail to launch" when protected
@@ -30,15 +24,13 @@ More videos available at [iDevChannel](https://www.youtube.com/channel/UC2GzUE7J
 
 #### Installation
 
-###### Cydia
-Search for "PanicLock" to see all available versions.
-
-###### Github
-
-Install using [theos](http://iphonedevwiki.net/index.php/Theos)
-* [iPhoneDevWiki](http://iphonedevwiki.net/index.php/Main_Page)
-* [Getting Started](http://iphonedevwiki.net/index.php/Getting_Started)
-* [Open Source Projects](http://iphonedevwiki.net/index.php/Open_Source_Projects)
+* **Cydia**
+  * Search for "PanicLock" to see all available versions.
+* **Github**
+  * Install using [theos](http://iphonedevwiki.net/index.php/Theos)
+  * [iPhoneDevWiki](http://iphonedevwiki.net/index.php/Main_Page)
+  * [Getting Started](http://iphonedevwiki.net/index.php/Getting_Started)
+  * [Open Source Projects](http://iphonedevwiki.net/index.php/Open_Source_Projects)
 
 
 #### Versions
