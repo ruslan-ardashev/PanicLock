@@ -46,8 +46,12 @@ Install using [theos](http://iphonedevwiki.net/index.php/Theos)
 
 **PanicLock8** for iOS 8
 * Free in Cydia
+* [Old Free Version](http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=paniclockDp)
+* [Old Pro Version](http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=paniclockproDp) - $0.99
 * [Open Sourced](https://github.com/ruslan120101/PanicLock/tree/PanicLock8)
 
 **PanicLock7** for iOS 7
 * Free in Cydia
+* [Old Free Version](http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=paniclockios8Dp)
+* [Old Pro Version](http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=paniclockproios8Dp) - $0.99
 * [Open Sourced](https://github.com/ruslan120101/PanicLock/tree/PanicLock7)
