@@ -1,7 +1,7 @@
 Package: com.ruslan.paniclock7
 Name: PanicLock7
 Depends: firmware (>= 7.0), mobilesubstrate, libactivator, applist
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Description: Silently lock your iOS Device via any secret gesture. Engineered for iOS 7.
 Maintainer: Ruslan Ardashev
