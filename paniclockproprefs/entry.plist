@@ -3,7 +3,7 @@
   bundle = panicLockProPrefs;
   cell = PSLinkCell;
   detail = panicLockProPrefsListController;
-  icon = PanicLock7.png;
+  icon = PanicLock.png;
   isController = 1;
   label = PanicLock7;
     };
