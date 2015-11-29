@@ -48,8 +48,6 @@ static CAMImageWell *savedWell;
 
 	}
 
-	[prefs release];
-
 }
 
 - (int)orientation { 
@@ -67,7 +65,6 @@ static CAMImageWell *savedWell;
 			if (savedWell == nil) {
 
 				savedWell = currWell;
-				[savedWell retain];
 
 			}
 
@@ -98,7 +95,6 @@ static CAMImageWell *savedWell;
 			if (savedWell != nil) {
 
 				[self setImageWell:savedWell];
-				[savedWell release];
 
 				// Clean up for next run!
 				savedWell = nil;

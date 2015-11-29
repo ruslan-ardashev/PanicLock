@@ -37,8 +37,6 @@ static void loadPrefs() {
 
 	}
 
-	[prefs release];
-
 }
 
 
@@ -98,8 +96,6 @@ static void loadPrefs() {
 
 	returnValue = [[prefs objectForKey:application] boolValue];
 
-	[prefs release]; 
-
 	return returnValue;
 
 }
@@ -123,22 +119,20 @@ static void loadPrefs() {
 	// Write to save location
 	[prefs setObject:isEnabled_NSNumber forKey:@"isEnabled_NSNumber"];
 	[prefs writeToFile:FILE_PATH atomically:YES];
-	NSLog(@"ra86: Successfully wrote state: %d to file.", [isEnabled_NSNumber boolValue]);
-
-	[prefs release];
+	// NSLog(@"ra86: Successfully wrote state: %d to file.", [isEnabled_NSNumber boolValue]);
 
 }
 
 + (void)displayWelcomeMessage {
 
-	UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"Welcome to panicLock [Pro] for iOS 8"
-							  					    message:@"Preference file created. panicLock [Pro] will now remember lock status between reboots for security purposes."
-							 					   delegate:nil
-				 						  cancelButtonTitle:@"Got it, thanks!"
-				 						  otherButtonTitles:nil];
+	// UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"Welcome to panicLock [Pro] for iOS 8"
+	// 						  					    message:@"Preference file created. panicLock [Pro] will now remember lock status between reboots for security purposes."
+	// 						 					   delegate:nil
+	// 			 						  cancelButtonTitle:@"Got it, thanks!"
+	// 			 						  otherButtonTitles:nil];
 
-	[alert show];
-	[alert release];
+	// [alert show];
+	// [alert release];
 
 }
 
